@@ -2,8 +2,8 @@
 import cv2
 import os
 import imutils
-personName = "Enrique"
-datapath = 'D:\Documento\Cuarto Semestre\Semana Tec TC1001S.1\Aplicación\Data'
+personName = "Adrian"
+datapath = 'C:/Users/windw/Documents/proyecto_Tec/Aplicacion/Aplicacion_TEC/Reconocimiento_Facial/Data'
 personPath=datapath+'/'+ personName
 print(personPath)
 if not os.path.exists(personPath):
