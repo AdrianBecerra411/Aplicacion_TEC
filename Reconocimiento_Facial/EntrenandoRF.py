@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 
-dataPath = "C:/Users/windw/Documents/proyecto_Tec/Aplicacion/Aplicacion_TEC" #Cambia a la ruta donde hayas almacenado Data
+dataPath = "D:\Documento\Cuarto Semestre\Semana Tec TC1001S.1\Aplicacion_TEC\Reconocimiento_Facial\Data" #Cambia a la ruta donde hayas almacenado Data
 peopleList = os.listdir(dataPath)
 print('Lista de personas: ', peopleList)
 
