@@ -4,7 +4,7 @@
 import cv2
 import os
 
-dataPath = "D:\Documento\Cuarto Semestre\Semana Tec TC1001S.1\Aplicacion_TEC\Reconocimiento_Facial\Data" #Cambia a la ruta donde hayas almacenado Data
+dataPath = "C:/Users/dell/Desktop/aplicacion/Aplicacion_TEC/Reconocimiento_Facial/Data" #Cambia a la ruta donde hayas almacenado Data
 imagePaths = os.listdir(dataPath)
 print('imagePaths=',imagePaths)
 
