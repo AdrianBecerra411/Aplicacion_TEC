@@ -18,8 +18,11 @@ Por ultimo sigue el reconocimiento facial que es el que se encarga de demostrar 
 
 Pd: El commit unknown del codigo casi terminado es de parte de Adrian Becerra, pero por alguna razon no lo registro github
 
+![image](https://user-images.githubusercontent.com/71723297/111688067-b3994800-87f0-11eb-93f1-a98205cce3d2.png)
+
 # Referencias
 Tomamos el codigo de parte de GabySol quien nos presento la base del programa, el cual despues
 ajustamos para que funcionara en nuestras computadoras 
 
 link: https://github.com/GabySol/OmesTutorials2020/tree/master/6%20RECONOCIMIENTO%20FACIAL
+
